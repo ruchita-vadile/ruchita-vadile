@@ -1,6 +1,6 @@
 # Hi, I'm Ruchita 👋
 
-🎓 Computer Engineering Student
+🎓 Computer Science Engineering Student
 
 🌱 Currently Learning:
 - Python
