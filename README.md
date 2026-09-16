@@ -82,6 +82,6 @@ To keep learning, build meaningful projects, improve my problem-solving skills, 
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: linkedin.com/in/ruchita-vadile
+💼 LinkedIn: (https://www.linkedin.com/in/ruchita-vadile-ab9371385/)
 
 ⭐ Feel free to explore my repositories!
