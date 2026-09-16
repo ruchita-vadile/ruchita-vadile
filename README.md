@@ -1,20 +1,83 @@
 # Hi, I'm Ruchita 👋
 
-🎓 Computer Science Engineering Student
+### Computer Science Engineering Student | Developer | AI & Software Enthusiast
 
-🌱 Currently Learning:
-- Python
-- CS50
-- Git & GitHub
+I'm a Computer Science Engineering student passionate about building useful software, exploring Artificial Intelligence, and continuously learning new technologies.
 
-💻 Interested In:
-- Artificial Intelligence
-- Software Development
+🎓 Currently pursuing BTech in Computer Science Engineering
+💻 Interested in Software Development, AI/ML and Cloud Computing
+🌱 Currently learning and building with Python, C, Java, SQL and web technologies
+🏆 Completed Harvard's CS50x
+🚀 I enjoy turning ideas into practical projects
 
-🎯 Goals for 2026:
-- Complete CS50
-- Build 5 Python projects
-- Learn AI Fundamentals
+---
 
-📫 Connect with me:
-LinkedIn: www.linkedin.com/in/ruchita-vadile-ab9371385
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+`Python` `C` `Java` `SQL` `HTML` `CSS` `JavaScript`
+
+**Tools & Technologies**
+
+`Git` `GitHub` `Flask` `SQLite` `Bootstrap`
+
+---
+
+## 🚀 Featured Projects
+
+### 📮 Tiny Post Office
+
+A web application inspired by the idea of sending meaningful digital postcards.
+
+**Built with:** Python, Flask, SQLite, HTML, CSS & JavaScript
+
+✨ Features include user authentication, sending and opening postcards, mailbox and sent folders, multiple postcard categories, and custom stamps.
+
+---
+
+### 🌱 HopeServe — Beneficiary Management System
+
+A digital management system designed to help an NGO manage beneficiary information and services.
+
+**Features include:**
+
+* Beneficiary record management
+* Extra meal tracking
+* Medical equipment records
+* Date-wise data
+* Dashboard statistics
+* Individual reports and printing
+
+**Built with:** HTML, CSS & JavaScript
+
+---
+
+### 🎮 Time Weaver
+
+A Scratch game created as part of Harvard's CS50x.
+
+The project includes custom blocks, interactive gameplay, and increasing difficulty.
+
+---
+
+## 📚 Currently Exploring
+
+* 🤖 Artificial Intelligence & Machine Learning
+* ☁️ Cloud Computing
+* 💻 Software Development
+* 🧠 Data Structures & Algorithms
+
+---
+
+## 🌟 My Goal
+
+To keep learning, build meaningful projects, improve my problem-solving skills, and grow as a software developer.
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: linkedin.com/in/ruchita-vadile/
+
+⭐ Feel free to explore my repositories!
