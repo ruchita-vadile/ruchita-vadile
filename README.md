@@ -5,9 +5,13 @@
 I'm a Computer Science Engineering student passionate about building useful software, exploring Artificial Intelligence, and continuously learning new technologies.
 
 🎓 Currently pursuing BTech in Computer Science Engineering
+
 💻 Interested in Software Development, AI/ML and Cloud Computing
+
 🌱 Currently learning and building with Python, C, Java, SQL and web technologies
+
 🏆 Completed Harvard's CS50x
+
 🚀 I enjoy turning ideas into practical projects
 
 ---
@@ -78,6 +82,6 @@ To keep learning, build meaningful projects, improve my problem-solving skills, 
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: linkedin.com/in/ruchita-vadile/
+💼 LinkedIn: linkedin.com/in/ruchita-vadile
 
 ⭐ Feel free to explore my repositories!
